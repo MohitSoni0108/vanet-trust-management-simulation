@@ -27,6 +27,13 @@ This project implements a trust-based evaluation model for Vehicular Ad-Hoc Netw
 - Experience with traffic simulation
 - Trust evaluation and log analysis
 
+## Project Type
+Final Year B.Tech Project (BTP)
+
+## Author
+Mohit Soni
+
+
 ## Note on Simulation Files
 Due to GitHub file size limits, large network and route files are not included.
 They can be generated using SUMO tools or provided upon request.
