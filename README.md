@@ -20,14 +20,15 @@ This project implements a trust-based evaluation model for Vehicular Ad-Hoc Netw
 1. Install SUMO
 2. Configure the simulation using `delhi.sumocfg`
 3. Run the Python trust evaluation script
+4. Analyze the generated trust logs
+   
+## Learning Outcomes
+- Practical understanding of VANETs
+- Experience with traffic simulation
+- Trust evaluation and log analysis
 
 ## Note on Simulation Files
 Due to GitHub file size limits, large network and route files are not included.
 They can be generated using SUMO tools or provided upon request.
 
-4. Analyze the generated trust logs
 
-## Learning Outcomes
-- Practical understanding of VANETs
-- Experience with traffic simulation
-- Trust evaluation and log analysis
