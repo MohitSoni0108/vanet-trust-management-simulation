@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="delhi.net.xml"/>
+        <route-files value="delhi.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="600"/>
+        <step-length value="1.0"/>
+    </time>
+</configuration>
